@@ -8,5 +8,5 @@ I'm paoqi1997, an average developer from Shenzhen but now in Guangzhou.
 
 **Statistics**
 
-|![paoqi1997's github stats](https://github-readme-stats.vercel.app/api?username=paoqi1997&show_icons=true&theme=nightowl)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paoqi1997&layout=compact&theme=nightowl&langs_count=6)|
+|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paoqi1997&theme=buefy&hide_border=true&show_icons=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paoqi1997&theme=buefy&hide_border=true&layout=compact&langs_count=8)|
 |--|--|
